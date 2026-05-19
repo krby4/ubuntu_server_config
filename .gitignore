@@ -1,0 +1,4 @@
+# ignore bootstrap
+bootstrap.sh
+# ignore config folder for now
+config/
